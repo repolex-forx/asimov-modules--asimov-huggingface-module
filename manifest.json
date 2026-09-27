@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-huggingface-module",
+  "versions": [
+    {
+      "commit": "b4216159f8ced806e94f4856cca4d20fb644dc26",
+      "parsed_at": "2026-09-27T19:46:45.707510+00:00",
+      "tag": "0.0.0",
+      "filetree": "filetree/b4216159f8ced806e94f4856cca4d20fb644dc26.nq.gz",
+      "blobs": [
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/3041bf28e48619a0c773c6840e3f734fd3d3ef27.nq.gz",
+        "blob/cf42f6893594e2f8be2b722de51123d65e4d61c4.nq.gz",
+        "blob/d33b3537869750b102370a8011c906be6b172e40.nq.gz",
+        "blob/75e3b65f99b29f48ab230e3eab3de8d0b7a9229f.nq.gz",
+        "blob/5f5cf896c81688e4360b37f1bcda92f7bc6f7423.nq.gz",
+        "blob/c8fc03c6d7f073d1fe862cac36cff1a3ae619edd.nq.gz",
+        "blob/062b676000d1b3475f1a99b633afa53368d65754.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/e75b77fcde0cf8341f8733165c220611440b3860.nq.gz",
+        "blob/1d013ff92fa855fb03f148d15f9488c339392020.nq.gz",
+        "blob/2391f73aa051d3804285ce744f2e9a1c7e08993d.nq.gz",
+        "blob/5dc50bcc4043313cb30c4702b021d658692f3cd0.nq.gz",
+        "blob/77d6f4ca23711533e724789a0a0045eab28c5ea6.nq.gz",
+        "blob/af9908b08f4b33c32a0080af73f53bc0fa0cdce4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
