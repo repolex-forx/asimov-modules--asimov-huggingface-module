@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-huggingface-module",
+  "versions": [
+    {
+      "commit": "b4216159f8ced806e94f4856cca4d20fb644dc26",
+      "tag": "0.0.0",
+      "parsed_at": "2026-09-28T07:07:17.468023+00:00"
+    }
+  ]
+}
