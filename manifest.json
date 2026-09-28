@@ -27,6 +27,20 @@
       ],
       "ast": [
         "aggregate/ast/b4216159f8ced806e94f4856cca4d20fb644dc26/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b4216159f8ced806e94f4856cca4d20fb644dc26.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.7",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "fd8392beef01825907f23c3da557178ff652f16c",
+          "githubTag": "25.0.0-dev.7",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
