@@ -41,7 +41,9 @@
           "githubUrl": "https://github.com/asimov-platform/asimov.rs",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/b4216159f8ced806e94f4856cca4d20fb644dc26/chunk-001.nq.gz",
+      "dep": "dep/b4216159f8ced806e94f4856cca4d20fb644dc26.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
